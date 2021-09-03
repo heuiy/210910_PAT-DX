@@ -1,3 +1,5 @@
+* 문제 출처 : LG 인화원, 데이터 캠프, 20.08
+
 LGSales 데이터(LGDatasets_Sales.csv)는 2017~2019년 LG전자 베스트샵 판매 정보로 구성되어 있습니다.
 
 sales = read.csv("https://raw.githubusercontent.com/heuiy/data/main/Data_Camp/LGDatasets_Sales.csv")
